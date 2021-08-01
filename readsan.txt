@@ -2,3 +2,5 @@ emptyfile
 editings
 trynow
 it should work
+trydiff
+okok
